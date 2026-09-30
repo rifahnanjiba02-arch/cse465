@@ -2,30 +2,30 @@
 
 This repository contains my notes, exercises, experiments, and practice projects from a Deep Learning course.
 
-Topics
+## Topics
 
-Deep Learning fundamentals
+- Deep Learning fundamentals
 
-Neural networks
+- Neural networks
 
-Model training and evaluation
+- Model training and evaluation
 
-Natural Language Processing
+- Natural Language Processing
 
-Transformers and Large Language Models
+- Transformers and Large Language Models
 
-Retrieval-Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
 
-Embeddings and vector search
+- Embeddings and vector search
 
-Experimentation with different models and frameworks
+- Experimentation with different models and frameworks
 
-Purpose
+## Purpose
 
 This repository is maintained for learning and practice throughout the course.
 
 The implementations are primarily focused on understanding concepts, experimenting with different approaches, and building hands-on experience.
 
-Progress
+## Progress
 
 The repository will be updated as I progress through the course and explore new concepts and techniques.
